@@ -17,6 +17,13 @@ Developed a personalized web application for students and teachers, aimed at enh
 - HTML
 - CSS
 
+## Screenshots
+Teacher
+![Profe](https://github.com/astridperez/TeachEar/assets/101608353/ccb9d2ec-7743-4f6a-91c4-313b7ebfb8a4)
+Student
+![Alumno](https://github.com/astridperez/TeachEar/assets/101608353/b49aa852-8e65-47f7-913d-670866771e02)
+
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/astridperez/TeachEar`
